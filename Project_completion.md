@@ -27,4 +27,4 @@ Code used or developed in support of the project must be:
 - [ ] Described in the README- what does each file do, what language was used, etc
 - [ ] Tested! can at least one other person (but more is better) make your analysis go on a different computer?
 
-
+> The material in these guidelines is derived from the "[Bahlai Lab General Guidelines](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md)" by Dr. Christie Bahlai. The Beckman Research Group General Guidelines are licensed under CC BY 4.0 by Dr. Noelle G. Beckman.
