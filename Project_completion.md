@@ -1,7 +1,7 @@
 
 # Project completion checklist
 
-In the Bahlai Lab, we strive to make our work as reproducible and as transparent as possible. Different projects may vary from this format slightly- this is intended to be taken as a guideline covering the components of most of our common projects. It's preferable, and probably easier on you, if you keep these requirements in mind while developing your project, but all elements should be present at project wrap-up. Here are the common documentation standards I expect to be met with the completion of each project.
+In the Beckman Research Group, we strive to make our work as reproducible and as transparent as possible. Different projects may vary from this format slightly- this is intended to be taken as a guideline covering the components of most of our common projects. It's preferable, and probably easier on you, if you keep these requirements in mind while developing your project, but all elements should be present at project wrap-up. Here are the common documentation standards I expect to be met with the completion of each project.
 
 ## General project documentation
 
